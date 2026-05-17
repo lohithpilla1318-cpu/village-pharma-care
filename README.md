@@ -6,7 +6,7 @@ Village Pharma Care is a healthcare and pharmacy management web application deve
 [Click Here to View Project](https://med-reach-express.lovable.app)
 
 ## GitHub Repository
-https://github.com/kteja6411-a11y/village-pharma-care
+https://github.com/lohithpilla1318-cpu/village-pharma-care
 
 ## Technologies Used
 - React
